@@ -20,6 +20,10 @@ Prerequisites
 Ensure that your hosts file on the Kali machine is set to default (e.g., no manual redirects). This lab requires proper DNS functionality for accessing real sites.
 
 # Step 1: Set Up Credential Harvester in SET
+
+![Social Engineer Tool KIT](https://github.com/user-attachments/assets/590212d9-3a30-419c-a515-4ef9c8ad0a87)
+
+
 Launch SET:
 
 Open a terminal and type:
@@ -52,6 +56,9 @@ Activate Credential Harvester:
 SET will display a message indicating the credential harvester is active. Keep this terminal window open to view harvested data.
 
  # Step 2: Testing the Credential Harvester
+
+![Google Social Engineering](https://github.com/user-attachments/assets/d4f084dc-ff81-4a7e-8d31-4051bb2a426f)
+
 Open the Firebrowser Browser:
 
 In Kali, navigate to Applications -> Internet -> Firebrowser and open a new browser window.
